@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import sqlite3
-from collections import OrderedDict
 
 
 INSERT_PROD = """INSERT INTO produto
